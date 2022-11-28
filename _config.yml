@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: '도푸리의 포트폴리오'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
